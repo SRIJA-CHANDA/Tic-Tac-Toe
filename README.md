@@ -27,7 +27,7 @@ git clone https://github.com/SRIJA-CHANDA/Tic-Tac-Toe.git
 Open the Folder
 
 ```bash
-cd Spotify_Clone
+cd Tic-Tac-Toe
 ```
 
 **VS Code**
